@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 
+
+I’m currently learning how to work with Openclaw. Will be cloning some repositories for this.
+
+I'm a clincial faculty teaching Computer Science at PAce University.
+
+I'm an amateur horticulturist and arborist. Will be propagating American Chestnuts in June of 2026.
 
 <!--
 **drtomschmidt/drtomschmidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
